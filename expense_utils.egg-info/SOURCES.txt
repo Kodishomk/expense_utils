@@ -1,9 +1,0 @@
-setup.py
-expense_utils/__init__.py
-expense_utils/calculator.py
-expense_utils.egg-info/PKG-INFO
-expense_utils.egg-info/SOURCES.txt
-expense_utils.egg-info/dependency_links.txt
-expense_utils.egg-info/top_level.txt
-expense_utils/tests/__init__.py
-expense_utils/tests/test_calculator.py
